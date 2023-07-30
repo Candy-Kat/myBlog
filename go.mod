@@ -1,4 +1,4 @@
-module https://github.com/Candy-Kat/myBlog
+module github.com/Candy-Kat/myBlog
 
 go 1.19
 
