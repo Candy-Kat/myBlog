@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module https://github.com/Candy-Kat/myBlog
 
 go 1.19
 
